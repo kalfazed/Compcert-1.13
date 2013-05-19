@@ -1,0 +1,6 @@
+FCoqlib
+R1208:1213 Coq.ZArith.ZArith <> <> lib
+R1231:1240 Coq.ZArith.Znumtheory <> <> lib
+R1258:1261 Coq.Lists.List <> <> lib
+R1279:1282 Coq.Bool.Bool <> <> lib
+R1478:1487 Coq.Init.Logic <> refl_equal syndef
